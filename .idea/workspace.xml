@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="268e8d51-d171-45ce-87bd-2ab6fd7bb42c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Medication_reminder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medication_reminder.py" afterDir="false" />
-    </list>
+    <list default="true" id="268e8d51-d171-45ce-87bd-2ab6fd7bb42c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,8 +31,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.medication_reminder.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "Merging main"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -54,6 +51,19 @@
       <option name="presentableId" value="Default" />
       <updated>1746788216981</updated>
     </task>
+    <task id="LOCAL-00001" summary="First python project commit">
+      <option name="closed" value="true" />
+      <created>1746788591590</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746788591590</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First python project commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First python project commit" />
   </component>
 </project>
