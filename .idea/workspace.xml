@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="268e8d51-d171-45ce-87bd-2ab6fd7bb42c" name="Changes" comment="Merge branch 'main' from remote repository to integrate updates">
-      <change afterPath="$PROJECT_DIR$/alert.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medication_reminder.py" beforeDir="false" afterPath="$PROJECT_DIR$/medication_reminder.py" afterDir="false" />
     </list>
@@ -24,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2wr8E2PibGADkBNYgiAkjrUPrDq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,7 +36,9 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.medication_reminder.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/USER/OneDrive/Desktop/PythonProject/Medication_reminder"
   }
 }]]></component>
