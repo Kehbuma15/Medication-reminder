@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="268e8d51-d171-45ce-87bd-2ab6fd7bb42c" name="Changes" comment="" />
+    <list default="true" id="268e8d51-d171-45ce-87bd-2ab6fd7bb42c" name="Changes" comment="Merge branch 'main' from remote repository to integrate updates">
+      <change afterPath="$PROJECT_DIR$/alert.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medication_reminder.py" beforeDir="false" afterPath="$PROJECT_DIR$/medication_reminder.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,9 +37,18 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.medication_reminder.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/USER/OneDrive/Desktop/PythonProject/Medication_reminder"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\OneDrive\Desktop\PythonProject\Medication_reminder" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\OneDrive\Desktop\PythonProject\Medication_reminder" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -59,11 +72,20 @@
       <option name="project" value="LOCAL" />
       <updated>1746788591590</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Merge branch 'main' from remote repository to integrate updates">
+      <option name="closed" value="true" />
+      <created>1746792474266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746792474266</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First python project commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First python project commit" />
+    <MESSAGE value="Merge branch 'main' from remote repository to integrate updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' from remote repository to integrate updates" />
   </component>
 </project>
